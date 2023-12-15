@@ -1,0 +1,90 @@
+{
+  "posts": [
+    {
+      "firstname": "thanga",
+      "lastname": "amirtham",
+      "phonenumber": 12345667778,
+      "city": "chennai",
+      "id": 7
+    },
+    {
+      "firstname": "amirtha",
+      "lastname": "gold",
+      "phonenumber": 8978789789,
+      "city": "chennai",
+      "id": 8
+    },
+    {
+      "firstname": "amir",
+      "lastname": "thangam",
+      "phonenumber": 1234567890,
+      "city": "delhi",
+      "id": 9
+    }
+  ],
+  "signup": [
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "name": "sd",
+      "email": "",
+      "password": "sdd",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "name": null,
+      "email": null,
+      "password": null,
+      "id": 6
+    },
+    {
+      "name": null,
+      "email": null,
+      "password": "dfdf",
+      "id": 7
+    },
+    {
+      "name": "thangam",
+      "email": "",
+      "password": "12345",
+      "id": 8
+    },
+    {
+      "name": "amirtha",
+      "email": "",
+      "password": "12345",
+      "id": 9
+    },
+    {
+      "name": "thangam",
+      "email": "thangam@gmail.com",
+      "password": "12345",
+      "id": 10
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
